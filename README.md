@@ -1,16 +1,13 @@
 # flutter_appbar
 
-A new Flutter project.
+- First Push<br>
+  Creating AppBar with leading and action button
 
-## Getting Started
+- Second Push<br>
+  Add tabbar for navigation<br>
+  Add simple title listview
 
-This project is a starting point for a Flutter application.
+## Result
+<img width="440" alt="image" src="https://github.com/ajiec123/flutter_appbar/assets/45061407/a4d0bd44-156a-45b5-ab59-7d5e0b887064">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
